@@ -12,27 +12,6 @@
 </p>
 </div>
 
-# Curriculum
-
-The curriculum is separated into two parts:
-
-- [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
-  - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
-  - [Introduction to Analysis](#introduction-to-analysis)
-  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
-- [Advanced Topics](#advanced-topics)
-  - [Differential Equations](#differential-equations)
-  - [Mathematical Logic](#mathematical-logic)
-  - [Geometry and Topology](#geometry-and-topology)
-  - [Probability and Statistics](#probability-and-statistics)
-  - [Mathematical Analysis](#mathematical-analysis)
-  - [Abstract Algebra](#abstract-algebra)
-  
 ## Core Mathematics
 
 All classes under Core Mathematics are **required**, unless stated otherwise.
