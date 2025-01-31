@@ -151,25 +151,3 @@ Real analysis, numerical analysis, complex analysis, optimization theory
 
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
-
-
-## Congratulations
-
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
-- Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries, and more!
-- Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
-
-## How to show your progress
-
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this board](https://trello.com/b/zIlcyFSH/ossu-math) to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
-
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
